@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BatteryLevelView">
+        <attr name="battery_level" format="integer" />
+        <attr name="blvSegmentsCount" format="integer" />
+        <attr name="blvSegmentSpacing" format="dimension" />
+        <attr name="blvLevelColor" format="color" />
+        <attr name="blvSegmentBgColor" format="color" />
+    </declare-styleable>
+</resources>
